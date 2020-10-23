@@ -6,11 +6,6 @@
 <a href="https://github.com/KarthikNayak024/KarthikNayak024/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/KarthikNayak024/KarthikNayak024?color=brightgreen&label=LICENCE&logo=MIT"/>
 </a>
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=karthiknayak024&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/KarthikNayak024/KarthikNayak024?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/KarthikNayak024/KarthikNayak024/actions">
-   <img alt="github-activity" src="https://github.com/KarthikNayak024/KarthikNayak024/workflows/update-gh-activity/badge.svg">
-  </a>
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
@@ -41,9 +36,9 @@
 
 ## 🌐 **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-karthik--nayak24-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Gmail-karunayak63@gmail.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
-[<img src="https://img.shields.io/badge/Github-karthikNayak024-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
+[<img src="https://img.shields.io/badge/Gmail-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=gmail&color=d14836"/>][gmail]
+[<img src="https://img.shields.io/badge/Github-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
 
 
 <!-- ## **Badges:**
